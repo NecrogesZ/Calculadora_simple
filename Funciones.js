@@ -32,10 +32,3 @@ function potencia() {
     document.getElementById("resultado").value = resultado;
 }
 
-function calcula() {
-    suma();
-    resta();
-    multiplica();
-    divide();
-    potencia();
-}
